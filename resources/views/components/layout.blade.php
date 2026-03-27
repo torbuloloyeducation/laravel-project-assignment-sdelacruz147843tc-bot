@@ -7,7 +7,14 @@
 </head>
 <style>
     *{
-        background-color: grey;
+        background-color: #a82121;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    br {
+        display: none;
+    }
+    h1 {
+        color: pink;
     }
 </style>
 <body>
