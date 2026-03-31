@@ -7,10 +7,18 @@
 </head>
 <style>
     *{
-        background-color: grey;
+        background-color: #18132a;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    br {
+        display: none;
+    }
+    h1 {
+        color: pink;
     }
 </style>
 <body>
+<x-navbar />
 {{ $slot }}
 </body>
 </html>
